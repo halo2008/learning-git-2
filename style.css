@@ -14,8 +14,16 @@
 	width: 500px;
 }
 
+h1 {
+	font-size: 46px;
+	color: white;
+	text-shadow: 0 0 7px #000000;
+}
+
 p {
 	font-weight: bold;
 	color: white;
 	padding: 50px;
+	text-shadow: 0 0 7px #000000;
+	font-size: 28px;
 }
