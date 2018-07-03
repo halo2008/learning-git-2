@@ -1,3 +1,5 @@
+$dark-grey: #676b72;
+
 .gallery {
 	img {
 		width: 300px;
@@ -7,5 +9,10 @@
 			opacity: .5;
 			cursor: pointer;
 		}
+
+.adventages {
+	p {
+		text-align: center;
+		color: $dark-grey;
 	}
 }
